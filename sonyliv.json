@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:31:07 17-09-2026",
+    "last update time": "00:42:10 18-09-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090542748_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788531987736688_UEL2627_MD1_Juventus_vs_NEC_4sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Juventus vs N.E.C. - MD1 - 18 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027"
+        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -12,41 +25,93 @@
             "audioLanguageName": "ENG",
             "event_name": "Sri Lanka Tour of England 2026",
             "match_name": "2nd T20I - 17 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789711266~acl=/*~id=60122541991245652493363634070591~hmac=872b99ac5e2b2f6427f82aa492c3a85d00906d4d180a2e5550de4e18c9b3d6b4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789711266~acl=/*~id=60122541991245652493363634070591~hmac=872b99ac5e2b2f6427f82aa492c3a85d00906d4d180a2e5550de4e18c9b3d6b4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789711266~acl=/*~id=60122541991245652493363634070591~hmac=872b99ac5e2b2f6427f82aa492c3a85d00906d4d180a2e5550de4e18c9b3d6b4"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090542648_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788531414631688_UEL2627_MD1_OFI_Crete_vs_Hoffenheim_4sep_landscape_thumb.jpg",
+            "contentId": "1090542751_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532891246688_UEL2627_MD1_Crystal_Palace_vs_Lech_Poznan_4sep_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2026-27",
-            "match_name": "OFI Crete vs Hoffenheim -  MD1 - 17 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789711266~acl=/*~id=60122541991245652493363634070591~hmac=872b99ac5e2b2f6427f82aa492c3a85d00906d4d180a2e5550de4e18c9b3d6b4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789711266~acl=/*~id=60122541991245652493363634070591~hmac=872b99ac5e2b2f6427f82aa492c3a85d00906d4d180a2e5550de4e18c9b3d6b4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789711266~acl=/*~id=60122541991245652493363634070591~hmac=872b99ac5e2b2f6427f82aa492c3a85d00906d4d180a2e5550de4e18c9b3d6b4"
+            "match_name": "Crystal Palace vs Lech Poznan - MD1 - 18 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090542649_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532203409688_UEL2627_MD1_Levski_Sofia_vs_Salzburg_4sep_landscape_thumb.jpg",
+            "contentId": "1090542749_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532535195688_UEL2627_MD1_Real_Sociedad_vs_Bournemouth_4sep_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Europa League 2026-27",
-            "match_name": "Levski Sofia vs Salzburg - MD1 - 17 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789711266~acl=/*~id=60122541991245652493363634070591~hmac=872b99ac5e2b2f6427f82aa492c3a85d00906d4d180a2e5550de4e18c9b3d6b4",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789711266~acl=/*~id=60122541991245652493363634070591~hmac=872b99ac5e2b2f6427f82aa492c3a85d00906d4d180a2e5550de4e18c9b3d6b4",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789711266~acl=/*~id=60122541991245652493363634070591~hmac=872b99ac5e2b2f6427f82aa492c3a85d00906d4d180a2e5550de4e18c9b3d6b4"
+            "match_name": "Real Sociedad vs Bournemouth - MD1 - 18 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090542752_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788533233404688_UEL2627_MD1_Besiktas_vs_Marseille_4sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Besiktas vs Marseille - MD1 - 18 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090542754_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788534760819688_UEL2627_MD1_Celtic_vs_Ferencvaros_4sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Celtic vs Ferencvaros - MD1 - 18 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090542753_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788534519058688_UEL2627_MD1_Viktoria_Plzen_vs_Union_SG_4sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Viktoria Plzen vs Union SG - MD1 - 18 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090542755_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788535295410688_UEL2627_MD1_Lillestrom_vs_Torreense_4sep_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Lillestrom vs Torreense - MD1 - 18 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789715526~acl=/*~id=41983788791185547759316830011896~hmac=4bdddbfd919be4e67903df8d6f386477486eb878e522ef988b3539f8e3fd0027"
         },
         {
             "event_category": "Sports",
             "isLive": false,
             "contentId": 1090542750,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024037/1789570963657146_Asian_Game_26__IND_vs_JPN_DDT_Promo_landscape.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024037/1789570942343146_Asian_Game_26__IND_vs_JPN_Today_Promo_landscape.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - India vs Japan"
@@ -77,15 +142,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Sri Lanka Tour of England 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090542538,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023957/1789378250364675_UEL2627_promo_MD1_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 1 - UEFA Europa League 2026-27"
         },
         {
             "event_category": "Cricket",
@@ -185,6 +241,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Boxing - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Wrestling",
+            "isLive": false,
+            "contentId": 1090542856,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024096/1789664267211355_AG26_wrestling_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Wrestling - 20th Asian Games Aichi-Nagoya 2026"
         }
     ]
 }
