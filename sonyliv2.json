@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "18-09-2026 09:00",
+  "last_updated": "18-09-2026 10:00",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -1021,64 +1021,6 @@
       "multiple_audio_links": []
     },
     {
-      "contentId": 1090542857,
-      "video_info": {
-        "title": "Upcoming - Women's Cricket - 20th Asian Games Aichi-Nagoya 2026",
-        "shortDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, only on Sony LIV. ",
-        "longDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, only on Sony LIV. ",
-        "genres": [
-          "Cricket"
-        ],
-        "episodeTitle": ""
-      },
-      "stream_info": {
-        "Maximum_Video_Quality": "SDR",
-        "dai_asset_key": null,
-        "broadcast_channel": "Sony Sports Ten 5",
-        "audio_language_list": [
-          {
-            "lang_code": "HIN",
-            "lang_label": "Hindi"
-          }
-        ],
-        "emfAttributes__audio_languages": "HIN",
-        "platformVariants": {
-          "assetType": "MASTER",
-          "assetName": "VOD_FULL_HD1",
-          "videoType": "FULL_HD1",
-          "audioLanguages": [
-            {
-              "audioId": 1,
-              "audioLanguageName": "HIN",
-              "isPreferred": true,
-              "audioLanguageLabel": "Hindi",
-              "type": "main"
-            }
-          ],
-          "subtitlesLanguages": [],
-          "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/e6afea047ad744caa828106ed7a35174/1789661952/baseline-std-v4/1090542857_17092026_hin_baseline-800300010.mpd",
-          "hasTrailer": true
-        }
-      },
-      "air_dates": {
-        "contractStartDate": "17 Sep 2026, 09:00 PM",
-        "contractEndDate": "04 Oct 2026, 11:59 PM",
-        "originalAirDate": null
-      },
-      "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024095/17896636843861_AG26_promo_landscape_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024095/17896636843861_AG26_promo_landscape_thumb.jpg",
-        "masthead_mobile_v1": null,
-        "masthead_mobile_v2": null,
-        "masthead_logo": null,
-        "circular_image": null,
-        "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024095/17896636843861_AG26_promo_landscape_thumb.jpg"
-      },
-      "multiple_audio_links": []
-    },
-    {
       "contentId": 1090542858,
       "video_info": {
         "title": "Upcoming - Hockey - 20th Asian Games Aichi-Nagoya 2026",
@@ -1249,6 +1191,64 @@
         "circular_image": null,
         "image_600x900_clean": null,
         "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789670864188908_AG26_wrestling_dated_promo_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": []
+    },
+    {
+      "contentId": 1090542860,
+      "video_info": {
+        "title": "Upcoming - Weightlifting - 20th Asian Games Aichi-Nagoya 2026",
+        "shortDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, only on Sony LIV.",
+        "longDescription": "Watch all the action from the 20th Asian Games Aichi-Nagoya 2026, only on Sony LIV.",
+        "genres": [
+          "Weightlifting"
+        ],
+        "episodeTitle": ""
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": null,
+        "broadcast_channel": "Sony Sports Ten 5",
+        "audio_language_list": [
+          {
+            "lang_code": "HIN",
+            "lang_label": "Hindi"
+          }
+        ],
+        "emfAttributes__audio_languages": "HIN",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD1",
+          "videoType": "FULL_HD1",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "HIN",
+              "isPreferred": true,
+              "audioLanguageLabel": "Hindi",
+              "type": "main"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/60efdf271c2041a38e4051f80ad9cfed/1789661972/baseline-std-v4/ASIAN_GAMES_WEIGHT_LIFTING_15_SEC_HOR_DATED_WOBUG_APP_WITH_TAG_17092026_hin_baseline-800300010.mpd",
+          "hasTrailer": true
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "17 Sep 2026, 09:00 PM",
+        "contractEndDate": "03 Oct 2026, 11:59 PM",
+        "originalAirDate": null
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789671156151908_AG26_weightlifting_dated_promo_Portrait_Thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789671092809908_AG26_weightlifting_dated_promo_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789671092809908_AG26_weightlifting_dated_promo_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     }
