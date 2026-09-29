@@ -1,20 +1,59 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:01:27 29-09-2026",
+    "last update time": "08:13:17 29-09-2026",
     "matches": [
         {
-            "event_category": "Cricket",
+            "event_category": "Badminton",
             "isLive": true,
-            "contentId": "1090541367_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025159/1790591344093509_AG26_MENS_CRICKET_QF_SL_VS_NEP_LIVE_landscape_thumb.jpg",
+            "contentId": "1090541381_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025226/1790624140219850_AG26_Generic_Sport_Badminton_Finals_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Sri Lanka vs Nepal - Quarter-Final - 28 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790681487~acl=/*~id=07201389618142239053463542357802~hmac=7f96605a3cd31518a113fa51ed4e72b75c255d116a8661067cb684191ea4b9e5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790681487~acl=/*~id=07201389618142239053463542357802~hmac=7f96605a3cd31518a113fa51ed4e72b75c255d116a8661067cb684191ea4b9e5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri2809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790681487~acl=/*~id=07201389618142239053463542357802~hmac=7f96605a3cd31518a113fa51ed4e72b75c255d116a8661067cb684191ea4b9e5"
+            "match_name": "Men's, Women's, Mixed Finals - Badminton - 29 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf"
+        },
+        {
+            "event_category": "Badminton",
+            "isLive": true,
+            "contentId": "1090541381_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025226/1790624140219850_AG26_Generic_Sport_Badminton_Finals_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Men's, Women's, Mixed Finals - Badminton - 29 Sep 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf"
+        },
+        {
+            "event_category": "Badminton",
+            "isLive": true,
+            "contentId": "1090541381_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025226/1790624140219850_AG26_Generic_Sport_Badminton_Finals_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Men's, Women's, Mixed Finals - Badminton - 29 Sep 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf"
+        },
+        {
+            "event_category": "Badminton",
+            "isLive": true,
+            "contentId": "1090541381_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025226/1790624140219850_AG26_Generic_Sport_Badminton_Finals_live_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Men's, Women's, Mixed Finals - Badminton - 29 Sep 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf"
         },
         {
             "event_category": "Sports",
