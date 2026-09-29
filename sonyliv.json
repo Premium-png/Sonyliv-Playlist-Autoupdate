@@ -1,68 +1,59 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:13:17 29-09-2026",
+    "last update time": "14:27:32 29-09-2026",
     "matches": [
         {
-            "event_category": "Badminton",
+            "event_category": "Volleyball",
             "isLive": true,
             "contentId": "1090541381_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025226/1790624140219850_AG26_Generic_Sport_Badminton_Finals_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025232/1790634675002576_AG26_29Sep_Volleyball_Mens_Qatar_vs_India_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Men's, Women's, Mixed Finals - Badminton - 29 Sep 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf"
+            "match_name": "Qatar vs India - Volleyball - 29 Sep 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790715451~acl=/*~id=79277522990684899782398976371783~hmac=246493536971bb9869b53465f6aea3309fd51d2ae41b873ea96de72f09cd4054",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790715451~acl=/*~id=79277522990684899782398976371783~hmac=246493536971bb9869b53465f6aea3309fd51d2ae41b873ea96de72f09cd4054",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790715451~acl=/*~id=79277522990684899782398976371783~hmac=246493536971bb9869b53465f6aea3309fd51d2ae41b873ea96de72f09cd4054"
         },
         {
-            "event_category": "Badminton",
+            "event_category": "Volleyball",
             "isLive": true,
             "contentId": "1090541381_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025226/1790624140219850_AG26_Generic_Sport_Badminton_Finals_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025232/1790634675002576_AG26_29Sep_Volleyball_Mens_Qatar_vs_India_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Men's, Women's, Mixed Finals - Badminton - 29 Sep 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf"
+            "match_name": "Qatar vs India - Volleyball - 29 Sep 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790715451~acl=/*~id=79277522990684899782398976371783~hmac=246493536971bb9869b53465f6aea3309fd51d2ae41b873ea96de72f09cd4054",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790715451~acl=/*~id=79277522990684899782398976371783~hmac=246493536971bb9869b53465f6aea3309fd51d2ae41b873ea96de72f09cd4054",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790715451~acl=/*~id=79277522990684899782398976371783~hmac=246493536971bb9869b53465f6aea3309fd51d2ae41b873ea96de72f09cd4054"
         },
         {
-            "event_category": "Badminton",
+            "event_category": "Volleyball",
             "isLive": true,
             "contentId": "1090541381_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025226/1790624140219850_AG26_Generic_Sport_Badminton_Finals_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025232/1790634675002576_AG26_29Sep_Volleyball_Mens_Qatar_vs_India_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Men's, Women's, Mixed Finals - Badminton - 29 Sep 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf"
+            "match_name": "Qatar vs India - Volleyball - 29 Sep 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790715451~acl=/*~id=79277522990684899782398976371783~hmac=246493536971bb9869b53465f6aea3309fd51d2ae41b873ea96de72f09cd4054",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790715451~acl=/*~id=79277522990684899782398976371783~hmac=246493536971bb9869b53465f6aea3309fd51d2ae41b873ea96de72f09cd4054",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790715451~acl=/*~id=79277522990684899782398976371783~hmac=246493536971bb9869b53465f6aea3309fd51d2ae41b873ea96de72f09cd4054"
         },
         {
-            "event_category": "Badminton",
+            "event_category": "Volleyball",
             "isLive": true,
             "contentId": "1090541381_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025226/1790624140219850_AG26_Generic_Sport_Badminton_Finals_live_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025232/1790634675002576_AG26_29Sep_Volleyball_Mens_Qatar_vs_India_live_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "Men's, Women's, Mixed Finals - Badminton - 29 Sep 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790692996~acl=/*~id=48698114661603276287675308004426~hmac=45b49e4f4c966010fceffda14106d3263b191f81de8c8f046b277ee32d77d0bf"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090540014,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
+            "match_name": "Qatar vs India - Volleyball - 29 Sep 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790715451~acl=/*~id=79277522990684899782398976371783~hmac=246493536971bb9869b53465f6aea3309fd51d2ae41b873ea96de72f09cd4054",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790715451~acl=/*~id=79277522990684899782398976371783~hmac=246493536971bb9869b53465f6aea3309fd51d2ae41b873ea96de72f09cd4054",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790715451~acl=/*~id=79277522990684899782398976371783~hmac=246493536971bb9869b53465f6aea3309fd51d2ae41b873ea96de72f09cd4054"
         },
         {
             "event_category": "Football",
@@ -95,10 +86,19 @@
             "event_category": "Sports",
             "isLive": false,
             "contentId": 1090539555,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810621694132_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025246/1790659986855403_AG_INDvsSL_SF_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090540014,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Cricket",
