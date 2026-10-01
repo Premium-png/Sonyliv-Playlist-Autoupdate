@@ -1,94 +1,59 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:12:17 01-10-2026",
+    "last update time": "17:16:42 01-10-2026",
     "matches": [
         {
-            "event_category": "Cricket",
+            "event_category": "Sports",
             "isLive": true,
-            "contentId": "1090541371_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg",
+            "contentId": "1090546010_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Sri Lanka - Semifinal - 1 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84"
+            "match_name": "Day 13 - 1 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790898401~acl=/*~id=37207989112306869666363834486858~hmac=1f0a08f75896c6f651790628217d6c31d032f188fa5059e99efc6259ed7f1fb8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790898401~acl=/*~id=37207989112306869666363834486858~hmac=1f0a08f75896c6f651790628217d6c31d032f188fa5059e99efc6259ed7f1fb8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790898401~acl=/*~id=37207989112306869666363834486858~hmac=1f0a08f75896c6f651790628217d6c31d032f188fa5059e99efc6259ed7f1fb8"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Sports",
             "isLive": true,
-            "contentId": "1090541371_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg",
+            "contentId": "1090546010_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Sri Lanka - Semifinal - 1 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84"
+            "match_name": "Day 13 - 1 Oct 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790898401~acl=/*~id=37207989112306869666363834486858~hmac=1f0a08f75896c6f651790628217d6c31d032f188fa5059e99efc6259ed7f1fb8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790898401~acl=/*~id=37207989112306869666363834486858~hmac=1f0a08f75896c6f651790628217d6c31d032f188fa5059e99efc6259ed7f1fb8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790898401~acl=/*~id=37207989112306869666363834486858~hmac=1f0a08f75896c6f651790628217d6c31d032f188fa5059e99efc6259ed7f1fb8"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Sports",
             "isLive": true,
-            "contentId": "1090541371_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg",
+            "contentId": "1090546010_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Sri Lanka - Semifinal - 1 Oct 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84"
+            "match_name": "Day 13 - 1 Oct 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790898401~acl=/*~id=37207989112306869666363834486858~hmac=1f0a08f75896c6f651790628217d6c31d032f188fa5059e99efc6259ed7f1fb8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790898401~acl=/*~id=37207989112306869666363834486858~hmac=1f0a08f75896c6f651790628217d6c31d032f188fa5059e99efc6259ed7f1fb8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790898401~acl=/*~id=37207989112306869666363834486858~hmac=1f0a08f75896c6f651790628217d6c31d032f188fa5059e99efc6259ed7f1fb8"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Sports",
             "isLive": true,
-            "contentId": "1090541371_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg",
+            "contentId": "1090546010_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Sri Lanka - Semifinal - 1 Oct 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090541371_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India vs Sri Lanka - Semifinal - 1 Oct 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84"
-        },
-        {
-            "event_category": "Archery",
-            "isLive": true,
-            "contentId": "1090541386_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025454/1790806510223810_AG26_1stOct_Archery_Mens_Individual_Bronze_Match_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "20th Asian Games Aichi-Nagoya 2026",
-            "match_name": "India In Action - Archery - 1 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790876535~acl=/*~id=50195001685333817785366750548184~hmac=8ddea81d2e10fd62f7b220fea881245983afdb8072026acdb622e927bb93fc84"
-        },
-        {
-            "event_category": "Hockey",
-            "isLive": false,
-            "contentId": 1090542858,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025311/1790692394378317_ag_hockey_indvspak_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Hockey - 20th Asian Games Aichi-Nagoya 2026"
+            "match_name": "Day 13 - 1 Oct 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790898401~acl=/*~id=37207989112306869666363834486858~hmac=1f0a08f75896c6f651790628217d6c31d032f188fa5059e99efc6259ed7f1fb8",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790898401~acl=/*~id=37207989112306869666363834486858~hmac=1f0a08f75896c6f651790628217d6c31d032f188fa5059e99efc6259ed7f1fb8",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790898401~acl=/*~id=37207989112306869666363834486858~hmac=1f0a08f75896c6f651790628217d6c31d032f188fa5059e99efc6259ed7f1fb8"
         },
         {
             "event_category": "Football",
@@ -100,13 +65,13 @@
             "event_name": "Upcoming - Denmark vs Portugal - UEFA Nations League 2026-27"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Sports",
             "isLive": false,
-            "contentId": 1090546015,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025457/1790808560713268_NZvsIND26_promo_landscape_thumb.jpg",
+            "contentId": 1090546365,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025531/179084717367868_indvspak_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour Of New Zealand 2026"
+            "event_name": "Upcoming - Pakistan vs India - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Football",
@@ -116,6 +81,15 @@
             "broadcast_channel": "LIV",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Brazil - India's International Friendlies "
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090546015,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025457/1790808560713268_NZvsIND26_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India Tour Of New Zealand 2026"
         },
         {
             "event_category": "Cricket",
@@ -172,15 +146,6 @@
             "event_name": "Upcoming - India Tour of New Zealand 2026"
         },
         {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090539080,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022077/1786464482593563_AG26_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Pakistan - 20th Asian Games Aichi-Nagoya 2026"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090541320,
@@ -188,15 +153,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of New Zealand "
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090541821,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023648/178884796612122_Asian_game_landscpae.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026"
         },
         {
             "event_category": "Football",
