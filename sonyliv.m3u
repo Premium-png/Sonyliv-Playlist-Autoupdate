@@ -1,25 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="sonyliv-Sports", Day 14 - 2 Oct 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790991724~acl=/*~id=94858155726480256213117265079012~hmac=0c8bf8403e98ee1667906923de0b1e48cdf1b398099756230b38ead9745a56a5
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790745313722683_UNL2627_France_vs_Italy_landscape_thumb.jpg" group-title="sonyliv-Football", France vs Italy - 3 Oct 2026 [ENG] - UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791011752~acl=/*~id=54828579891504268489293594550081~hmac=ce0188741b02aa15497f9e806e8d453d6d1bd151051110a1f84c5e94b783dc95
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="sonyliv-Sports", Day 14 - 2 Oct 2026 [HIN] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790991724~acl=/*~id=94858155726480256213117265079012~hmac=0c8bf8403e98ee1667906923de0b1e48cdf1b398099756230b38ead9745a56a5
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790745452538683_UNL2627_Belgium_vs_Turkiye_landscape_thumb.jpg" group-title="sonyliv-Football", Belgium vs Türkiye - 3 Oct 2026 [ENG] - UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791011752~acl=/*~id=54828579891504268489293594550081~hmac=ce0188741b02aa15497f9e806e8d453d6d1bd151051110a1f84c5e94b783dc95
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="sonyliv-Sports", Day 14 - 2 Oct 2026 [TAM] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790991724~acl=/*~id=94858155726480256213117265079012~hmac=0c8bf8403e98ee1667906923de0b1e48cdf1b398099756230b38ead9745a56a5
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790745920474668_UNL2627_Poland_vs_Romania_landscape_thumb.jpg" group-title="sonyliv-Football", Poland vs Romania - 3 Oct 2026 [ENG] - UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791011752~acl=/*~id=54828579891504268489293594550081~hmac=ce0188741b02aa15497f9e806e8d453d6d1bd151051110a1f84c5e94b783dc95
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="sonyliv-Sports", Day 14 - 2 Oct 2026 [TEL] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790991724~acl=/*~id=94858155726480256213117265079012~hmac=0c8bf8403e98ee1667906923de0b1e48cdf1b398099756230b38ead9745a56a5
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790745793215683_UNL2627_Hungary_vs_Georgia_landscape_thumb.jpg" group-title="sonyliv-Football", Hungary vs Georgia - 3 Oct 2026 [ENG] - UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791011752~acl=/*~id=54828579891504268489293594550081~hmac=ce0188741b02aa15497f9e806e8d453d6d1bd151051110a1f84c5e94b783dc95
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg" group-title="sonyliv-Sports", Day 14 - 2 Oct 2026 [KAN] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790991724~acl=/*~id=94858155726480256213117265079012~hmac=0c8bf8403e98ee1667906923de0b1e48cdf1b398099756230b38ead9745a56a5
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790747163415683_UNL2627_Bosnia_vs_Sweden_landscape_thumb.jpg" group-title="sonyliv-Football", Bosnia & Herzegovina vs Sweden - 3 Oct 2026 [ENG] - UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791011752~acl=/*~id=54828579891504268489293594550081~hmac=ce0188741b02aa15497f9e806e8d453d6d1bd151051110a1f84c5e94b783dc95
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790741981754668_UNL2627_Kazakhstan_vs_Moldova_landscape_thumb.jpg" group-title="sonyliv-Football", Kazakhstan vs Moldova - 2 Oct 2026 [ENG] - UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790991724~acl=/*~id=94858155726480256213117265079012~hmac=0c8bf8403e98ee1667906923de0b1e48cdf1b398099756230b38ead9745a56a5
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790745198261668_UNL2627_Ukraine_vs_Northern_Ireland_landscape_thumb.jpg" group-title="sonyliv-Football", Ukraine vs Northern Ireland - 3 Oct 2026 [ENG] - UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791011752~acl=/*~id=54828579891504268489293594550081~hmac=ce0188741b02aa15497f9e806e8d453d6d1bd151051110a1f84c5e94b783dc95
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="sonyliv-Football", Football - 2 Oct 2026 [ENG] - 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds4_0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790991724~acl=/*~id=94858155726480256213117265079012~hmac=0c8bf8403e98ee1667906923de0b1e48cdf1b398099756230b38ead9745a56a5
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561614716673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day2_landscape_thumb.jpg" group-title="sonyliv-Golf", Alfred Dunhill Links Championship - Day 2 - 2 Oct 2026 [ENG] - DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_Alf0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790991724~acl=/*~id=94858155726480256213117265079012~hmac=0c8bf8403e98ee1667906923de0b1e48cdf1b398099756230b38ead9745a56a5
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790747295212683_UNL2627_Faroe_Islands_vs_Slovakia_landscape_thumb.jpg" group-title="sonyliv-Football", Faroe Islands vs Slovakia - 3 Oct 2026 [ENG] - UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791011752~acl=/*~id=54828579891504268489293594550081~hmac=ce0188741b02aa15497f9e806e8d453d6d1bd151051110a1f84c5e94b783dc95
 
