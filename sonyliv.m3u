@@ -1,19 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025694/1790988470293353_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="sonyliv-Football", India vs Brazil - 3 Oct 2026 [ENG] - India's International Friendlies 2026
-https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791076038~acl=/*~id=23679380359877959329459500967162~hmac=9c612b4fc36c55444edff39ff8a1eb14d7abbcd089ddad0f98c2ae2e3d2a1f7d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790747906736683_UNL2627_Croatia_vs_England_landscape_thumb.jpg" group-title="sonyliv-Football", Croatia vs England - 3 Oct 2026  [ENG] - UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791091259~acl=/*~id=62254662611948905038215771794830~hmac=482feb4b2223335eb02d47b7f8b437f58effbcf15b65b7c174a0e90dacf98e31
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025694/1790988470293353_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="sonyliv-Football", India vs Brazil - 3 Oct 2026 [HIN] - India's International Friendlies 2026
-https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791076038~acl=/*~id=23679380359877959329459500967162~hmac=9c612b4fc36c55444edff39ff8a1eb14d7abbcd089ddad0f98c2ae2e3d2a1f7d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748023774683_UNL2627_Iceland_vs_Bulgaria_landscape_thumb.jpg" group-title="sonyliv-Football", Iceland vs Bulgaria - 3 Oct 2026  [ENG] - UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791091259~acl=/*~id=62254662611948905038215771794830~hmac=482feb4b2223335eb02d47b7f8b437f58effbcf15b65b7c174a0e90dacf98e31
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025694/1790988470293353_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="sonyliv-Football", India vs Brazil - 3 Oct 2026 [TAM] - India's International Friendlies 2026
-https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791076038~acl=/*~id=23679380359877959329459500967162~hmac=9c612b4fc36c55444edff39ff8a1eb14d7abbcd089ddad0f98c2ae2e3d2a1f7d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748351517683_UNL2627_Estonia_vs_Luxembourg_landscape_thumb.jpg" group-title="sonyliv-Football", Estonia vs Luxembourg - 3 Oct 2026  [ENG] - UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791091259~acl=/*~id=62254662611948905038215771794830~hmac=482feb4b2223335eb02d47b7f8b437f58effbcf15b65b7c174a0e90dacf98e31
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025694/1790988470293353_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="sonyliv-Football", India vs Brazil - 3 Oct 2026 [TEL] - India's International Friendlies 2026
-https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791076038~acl=/*~id=23679380359877959329459500967162~hmac=9c612b4fc36c55444edff39ff8a1eb14d7abbcd089ddad0f98c2ae2e3d2a1f7d
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025694/1790988470293353_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="sonyliv-Football", India vs Brazil - 3 Oct 2026 [KAN] - India's International Friendlies 2026
-https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791076038~acl=/*~id=23679380359877959329459500967162~hmac=9c612b4fc36c55444edff39ff8a1eb14d7abbcd089ddad0f98c2ae2e3d2a1f7d
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025694/1790988470293353_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg" group-title="sonyliv-Football", India vs Brazil - 3 Oct 2026 [MAL] - India's International Friendlies 2026
-https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/MAL/std_lrh-800300010.m3u8?hdnea=exp=1791076038~acl=/*~id=23679380359877959329459500967162~hmac=9c612b4fc36c55444edff39ff8a1eb14d7abbcd089ddad0f98c2ae2e3d2a1f7d
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748179104683_UNL2627_Belarus_vs_San_Marino_landscape_thumb.jpg" group-title="sonyliv-Football", Belarus vs San Marino - 3 Oct 2026  [ENG] - UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791091259~acl=/*~id=62254662611948905038215771794830~hmac=482feb4b2223335eb02d47b7f8b437f58effbcf15b65b7c174a0e90dacf98e31
 
