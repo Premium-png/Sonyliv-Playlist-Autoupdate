@@ -1,72 +1,72 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:56:50 04-10-2026",
+    "last update time": "14:10:17 04-10-2026",
     "matches": [
         {
-            "event_category": "Fight Sports",
+            "event_category": "Sports",
             "isLive": true,
-            "contentId": "1090546670_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
+            "contentId": "1090546990_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025816/1791053737319612_AG26_closing_ceremony_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": " UFC 332 - Silva vs Wang",
-            "match_name": " UFC 332 - Silva vs Wang - 4 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791124008~acl=/*~id=32695612196850189227471902669518~hmac=15dfb21e12259828150b1d6fdbdd1185678b15a4e815d3add106466bee8877b1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791124008~acl=/*~id=32695612196850189227471902669518~hmac=15dfb21e12259828150b1d6fdbdd1185678b15a4e815d3add106466bee8877b1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791124008~acl=/*~id=32695612196850189227471902669518~hmac=15dfb21e12259828150b1d6fdbdd1185678b15a4e815d3add106466bee8877b1"
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Closing Ceremony - 4 Oct 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791146415~acl=/*~id=28774444366855027836100595475784~hmac=1c8d1916a7a7f31cd3c554f7078ba690ee463fee93f249a1f9ef8bb2ae2056f1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791146415~acl=/*~id=28774444366855027836100595475784~hmac=1c8d1916a7a7f31cd3c554f7078ba690ee463fee93f249a1f9ef8bb2ae2056f1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791146415~acl=/*~id=28774444366855027836100595475784~hmac=1c8d1916a7a7f31cd3c554f7078ba690ee463fee93f249a1f9ef8bb2ae2056f1"
         },
         {
-            "event_category": "Fight Sports",
+            "event_category": "Sports",
             "isLive": true,
-            "contentId": "1090546670_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
+            "contentId": "1090546990_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025816/1791053737319612_AG26_closing_ceremony_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": " UFC 332 - Silva vs Wang",
-            "match_name": " UFC 332 - Silva vs Wang - 4 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/UFC_UFC_0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791124008~acl=/*~id=32695612196850189227471902669518~hmac=15dfb21e12259828150b1d6fdbdd1185678b15a4e815d3add106466bee8877b1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/UFC_UFC_0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791124008~acl=/*~id=32695612196850189227471902669518~hmac=15dfb21e12259828150b1d6fdbdd1185678b15a4e815d3add106466bee8877b1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/UFC_UFC_0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791124008~acl=/*~id=32695612196850189227471902669518~hmac=15dfb21e12259828150b1d6fdbdd1185678b15a4e815d3add106466bee8877b1"
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Closing Ceremony - 4 Oct 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791146415~acl=/*~id=28774444366855027836100595475784~hmac=1c8d1916a7a7f31cd3c554f7078ba690ee463fee93f249a1f9ef8bb2ae2056f1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791146415~acl=/*~id=28774444366855027836100595475784~hmac=1c8d1916a7a7f31cd3c554f7078ba690ee463fee93f249a1f9ef8bb2ae2056f1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791146415~acl=/*~id=28774444366855027836100595475784~hmac=1c8d1916a7a7f31cd3c554f7078ba690ee463fee93f249a1f9ef8bb2ae2056f1"
         },
         {
-            "event_category": "Fight Sports",
+            "event_category": "Sports",
             "isLive": true,
-            "contentId": "1090546670_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
+            "contentId": "1090546990_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025816/1791053737319612_AG26_closing_ceremony_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": " UFC 332 - Silva vs Wang",
-            "match_name": " UFC 332 - Silva vs Wang - 4 Oct 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/UFC_UFC_0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791124008~acl=/*~id=32695612196850189227471902669518~hmac=15dfb21e12259828150b1d6fdbdd1185678b15a4e815d3add106466bee8877b1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/UFC_UFC_0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791124008~acl=/*~id=32695612196850189227471902669518~hmac=15dfb21e12259828150b1d6fdbdd1185678b15a4e815d3add106466bee8877b1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/UFC_UFC_0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791124008~acl=/*~id=32695612196850189227471902669518~hmac=15dfb21e12259828150b1d6fdbdd1185678b15a4e815d3add106466bee8877b1"
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Closing Ceremony - 4 Oct 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791146415~acl=/*~id=28774444366855027836100595475784~hmac=1c8d1916a7a7f31cd3c554f7078ba690ee463fee93f249a1f9ef8bb2ae2056f1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791146415~acl=/*~id=28774444366855027836100595475784~hmac=1c8d1916a7a7f31cd3c554f7078ba690ee463fee93f249a1f9ef8bb2ae2056f1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791146415~acl=/*~id=28774444366855027836100595475784~hmac=1c8d1916a7a7f31cd3c554f7078ba690ee463fee93f249a1f9ef8bb2ae2056f1"
         },
         {
-            "event_category": "Fight Sports",
+            "event_category": "Sports",
             "isLive": true,
-            "contentId": "1090546670_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
+            "contentId": "1090546990_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025816/1791053737319612_AG26_closing_ceremony_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": " UFC 332 - Silva vs Wang",
-            "match_name": " UFC 332 - Silva vs Wang - 4 Oct 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_UFC_0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791124008~acl=/*~id=32695612196850189227471902669518~hmac=15dfb21e12259828150b1d6fdbdd1185678b15a4e815d3add106466bee8877b1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_UFC_0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791124008~acl=/*~id=32695612196850189227471902669518~hmac=15dfb21e12259828150b1d6fdbdd1185678b15a4e815d3add106466bee8877b1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_UFC_0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791124008~acl=/*~id=32695612196850189227471902669518~hmac=15dfb21e12259828150b1d6fdbdd1185678b15a4e815d3add106466bee8877b1"
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Closing Ceremony - 4 Oct 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791146415~acl=/*~id=28774444366855027836100595475784~hmac=1c8d1916a7a7f31cd3c554f7078ba690ee463fee93f249a1f9ef8bb2ae2056f1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791146415~acl=/*~id=28774444366855027836100595475784~hmac=1c8d1916a7a7f31cd3c554f7078ba690ee463fee93f249a1f9ef8bb2ae2056f1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791146415~acl=/*~id=28774444366855027836100595475784~hmac=1c8d1916a7a7f31cd3c554f7078ba690ee463fee93f249a1f9ef8bb2ae2056f1"
         },
         {
-            "event_category": "Fight Sports",
+            "event_category": "Sports",
             "isLive": true,
-            "contentId": "1090546670_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
+            "contentId": "1090546990_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025816/1791053737319612_AG26_closing_ceremony_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": " UFC 332 - Silva vs Wang",
-            "match_name": " UFC 332 - Silva vs Wang - 4 Oct 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/UFC_UFC_0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791124008~acl=/*~id=32695612196850189227471902669518~hmac=15dfb21e12259828150b1d6fdbdd1185678b15a4e815d3add106466bee8877b1",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/UFC_UFC_0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791124008~acl=/*~id=32695612196850189227471902669518~hmac=15dfb21e12259828150b1d6fdbdd1185678b15a4e815d3add106466bee8877b1",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/UFC_UFC_0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791124008~acl=/*~id=32695612196850189227471902669518~hmac=15dfb21e12259828150b1d6fdbdd1185678b15a4e815d3add106466bee8877b1"
+            "event_name": "20th Asian Games Aichi-Nagoya 2026",
+            "match_name": "Closing Ceremony - 4 Oct 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791146415~acl=/*~id=28774444366855027836100595475784~hmac=1c8d1916a7a7f31cd3c554f7078ba690ee463fee93f249a1f9ef8bb2ae2056f1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791146415~acl=/*~id=28774444366855027836100595475784~hmac=1c8d1916a7a7f31cd3c554f7078ba690ee463fee93f249a1f9ef8bb2ae2056f1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791146415~acl=/*~id=28774444366855027836100595475784~hmac=1c8d1916a7a7f31cd3c554f7078ba690ee463fee93f249a1f9ef8bb2ae2056f1"
         },
         {
             "event_category": "Cricket",
@@ -80,17 +80,8 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090543731,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025803/1791041469410376_IND_vs_URU_landscape_thumb_dated.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India's International Friendlies - India vs Uruguay"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090546952,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025771/179102924286596_UNL_Portugal_vs_Norway_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025822/1791064274144264_UNL2627_Portugal_vs_Norway_tonight_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Portugal vs Norway - UEFA Nations League 2026-27"
@@ -98,47 +89,5 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090546951,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025771/179102914965796_UNL_France_vs_Belgium_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - France vs Belgium - UEFA Nations League 2026-27"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090546950,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025771/179102919887696_UNL_Croatia_vs_Spain_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Croatia vs Spain - UEFA Nations League 2026-27"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090542506,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023939/1789325459946480_IND_vs_NZ_landsacpe_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of New Zealand 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090541320,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835785489135_Sunil_grover_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of New Zealand "
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090538916,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of New Zealand "
-        }
-    ]
-}
+            "contentId": 1090543731,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025803/17
