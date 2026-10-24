@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:11:07 24-10-2026",
+    "last update time": "01:12:22 25-10-2026",
     "matches": [
         {
             "event_category": "Fight Sports",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC 333 - Volkanovski vs Evloev",
             "match_name": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792914141~acl=/*~id=27654947185843773573830812129837~hmac=46e34b6b0da0710a30c365e40885ffd04462763cd4b600e2d0948bd105451af6",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792914141~acl=/*~id=27654947185843773573830812129837~hmac=46e34b6b0da0710a30c365e40885ffd04462763cd4b600e2d0948bd105451af6",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792914141~acl=/*~id=27654947185843773573830812129837~hmac=46e34b6b0da0710a30c365e40885ffd04462763cd4b600e2d0948bd105451af6"
         },
         {
             "event_category": "Fight Sports",
@@ -25,9 +25,9 @@
             "audioLanguageName": "HIN",
             "event_name": "UFC 333 - Volkanovski vs Evloev",
             "match_name": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792914141~acl=/*~id=27654947185843773573830812129837~hmac=46e34b6b0da0710a30c365e40885ffd04462763cd4b600e2d0948bd105451af6",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792914141~acl=/*~id=27654947185843773573830812129837~hmac=46e34b6b0da0710a30c365e40885ffd04462763cd4b600e2d0948bd105451af6",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792914141~acl=/*~id=27654947185843773573830812129837~hmac=46e34b6b0da0710a30c365e40885ffd04462763cd4b600e2d0948bd105451af6"
         },
         {
             "event_category": "Fight Sports",
@@ -38,9 +38,9 @@
             "audioLanguageName": "TAM",
             "event_name": "UFC 333 - Volkanovski vs Evloev",
             "match_name": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TAM]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792914141~acl=/*~id=27654947185843773573830812129837~hmac=46e34b6b0da0710a30c365e40885ffd04462763cd4b600e2d0948bd105451af6",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792914141~acl=/*~id=27654947185843773573830812129837~hmac=46e34b6b0da0710a30c365e40885ffd04462763cd4b600e2d0948bd105451af6",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792914141~acl=/*~id=27654947185843773573830812129837~hmac=46e34b6b0da0710a30c365e40885ffd04462763cd4b600e2d0948bd105451af6"
         },
         {
             "event_category": "Fight Sports",
@@ -51,9 +51,9 @@
             "audioLanguageName": "TEL",
             "event_name": "UFC 333 - Volkanovski vs Evloev",
             "match_name": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TEL]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792914141~acl=/*~id=27654947185843773573830812129837~hmac=46e34b6b0da0710a30c365e40885ffd04462763cd4b600e2d0948bd105451af6",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792914141~acl=/*~id=27654947185843773573830812129837~hmac=46e34b6b0da0710a30c365e40885ffd04462763cd4b600e2d0948bd105451af6",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792914141~acl=/*~id=27654947185843773573830812129837~hmac=46e34b6b0da0710a30c365e40885ffd04462763cd4b600e2d0948bd105451af6"
         },
         {
             "event_category": "Fight Sports",
@@ -64,9 +64,18 @@
             "audioLanguageName": "KAN",
             "event_name": "UFC 333 - Volkanovski vs Evloev",
             "match_name": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [KAN]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792906866~acl=/*~id=79626074557468223161750922474602~hmac=c82dc42db952b440b4543df426d34473d67034370139ce37d9f0e1e689a5a270"
+            "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792914141~acl=/*~id=27654947185843773573830812129837~hmac=46e34b6b0da0710a30c365e40885ffd04462763cd4b600e2d0948bd105451af6",
+            "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792914141~acl=/*~id=27654947185843773573830812129837~hmac=46e34b6b0da0710a30c365e40885ffd04462763cd4b600e2d0948bd105451af6",
+            "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792914141~acl=/*~id=27654947185843773573830812129837~hmac=46e34b6b0da0710a30c365e40885ffd04462763cd4b600e2d0948bd105451af6"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090547508,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792661123769446_ISL_Kerala-Blasters-FC-vs-Mumbai-City-FC_promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - MG Indian Super League 2026-27"
         },
         {
             "event_category": "Cricket",
@@ -85,15 +94,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792661123769446_ISL_Kerala-Blasters-FC-vs-Mumbai-City-FC_promo_DDT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - MG Indian Super League 2026-27"
         },
         {
             "event_category": "Cricket",
