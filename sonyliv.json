@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:32:44 27-10-2026",
+    "last update time": "23:26:08 27-10-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -16,7 +16,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090550904,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027417/1793028576666177_INDvsNZ_4t20I_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027550/1793109468869876_NZvsIND_4t20i_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026"
@@ -24,8 +24,8 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090551031,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027459/1793087807073734_INDvsNZ_rahane_promo_landscape_thumb.jpg",
+            "contentId": 1090551109,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027494/1793097334885128_INDvsNZ_kohli_pormo_landscape_thumbnail.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 1st ODI - India Tour Of New Zealand 2026"
@@ -38,6 +38,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - ACC Men's U19 Asia Cup 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551031,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027459/1793087807073734_INDvsNZ_rahane_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 1st ODI - India Tour Of New Zealand 2026"
         },
         {
             "event_category": "Cricket",
@@ -74,6 +83,42 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Salute Tiranga Cricket League (STCL) 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551137,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027558/179311113686129_ind_vs_nz_vaibhav_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 4th T20I - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551142,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027556/179311108407418_ind_vs_nz_abhishek_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 4th T20I - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551143,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027557/1793111112080510_ind_vs_nz_ashwin_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 4th T20I - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551144,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027559/1793111161813529_Nz_vs_ind_4th_t20i_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - 4th T20I - India Tour Of New Zealand 2026"
         }
     ]
 }
