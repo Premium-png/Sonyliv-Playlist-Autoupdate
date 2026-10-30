@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:08:23 30-10-2026",
+    "last update time": "00:12:09 31-10-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090551180_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [ENG]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793410703~acl=/*~id=26571186098163408218118816181417~hmac=3f2fdd7452a3c9da01d0b5aba983b360e0d458c4bf58605817a038df7cec801a",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793410703~acl=/*~id=26571186098163408218118816181417~hmac=3f2fdd7452a3c9da01d0b5aba983b360e0d458c4bf58605817a038df7cec801a",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793410703~acl=/*~id=26571186098163408218118816181417~hmac=3f2fdd7452a3c9da01d0b5aba983b360e0d458c4bf58605817a038df7cec801a"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090551180_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "MG Indian Super League 2026-27",
-            "match_name": "NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [HIN]",
-            "dai_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793410703~acl=/*~id=26571186098163408218118816181417~hmac=3f2fdd7452a3c9da01d0b5aba983b360e0d458c4bf58605817a038df7cec801a",
-            "pub_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793410703~acl=/*~id=26571186098163408218118816181417~hmac=3f2fdd7452a3c9da01d0b5aba983b360e0d458c4bf58605817a038df7cec801a",
-            "video_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793410703~acl=/*~id=26571186098163408218118816181417~hmac=3f2fdd7452a3c9da01d0b5aba983b360e0d458c4bf58605817a038df7cec801a"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -37,6 +11,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090551228,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027784/1793355335652296_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day1_today_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - India A Tour Of New Zealand 2026"
         },
         {
             "event_category": "Football",
@@ -50,17 +33,8 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090551228,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027784/1793355343375296_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day1_dated_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - India A Tour Of New Zealand 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
             "contentId": 1090551489,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027816/1793362305764920_INDvsNZ_5t20I_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027867/1793371291590937_NZvsIND26_5th_T20I_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 5th T20I - India Tour Of New Zealand 2026"
@@ -127,6 +101,42 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 5th T20I - India Tour Of New Zealand 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090551495,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793167275203484_UCL_26_MD4_Atletico-vs-Bayern-Munich_Promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Atletico Madrid vs Bayern Munich - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090551496,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793168441946484_UCL_26_MD4_Barcelona-vs-Aston-Villa_Promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs Aston Villa - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090551497,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027846/1793366379756665_dortmund_VS_betis_landscape_thumbnail.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Dortmund vs Real Betis - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090551499,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793169184924484_UCL_26_MD4_Man-United_vs_Roma_Promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Manchester United vs Roma - UEFA Champions League 2026-27"
         }
     ]
 }
