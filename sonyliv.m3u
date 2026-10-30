@@ -1,16 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg" group-title="sonyliv-Cricket", 4th T20I - 30 Oct 2026 [ENG] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/master.m3u8?hdnea=exp=1793385604~acl=/*~id=02224661196681109465564636457864~hmac=764909e87d8295a477ff86c4c3f814af21462f662ed21bb8c1b5daaa80ec288a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg" group-title="sonyliv-Football", NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [ENG] - MG Indian Super League 2026-27
+https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793410703~acl=/*~id=26571186098163408218118816181417~hmac=3f2fdd7452a3c9da01d0b5aba983b360e0d458c4bf58605817a038df7cec801a
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg" group-title="sonyliv-Cricket", 4th T20I - 30 Oct 2026 [HIN] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793385604~acl=/*~id=02224661196681109465564636457864~hmac=764909e87d8295a477ff86c4c3f814af21462f662ed21bb8c1b5daaa80ec288a
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg" group-title="sonyliv-Cricket", 4th T20I - 30 Oct 2026 [TAM] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119951/cricodi_3010/TAM/master.m3u8?hdnea=exp=1793385604~acl=/*~id=02224661196681109465564636457864~hmac=764909e87d8295a477ff86c4c3f814af21462f662ed21bb8c1b5daaa80ec288a
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg" group-title="sonyliv-Cricket", 4th T20I - 30 Oct 2026 [TEL] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119941/cricodi_3010/TEL/master.m3u8?hdnea=exp=1793385604~acl=/*~id=02224661196681109465564636457864~hmac=764909e87d8295a477ff86c4c3f814af21462f662ed21bb8c1b5daaa80ec288a
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027568/1793115639556461_NZ_vs_IND_4th_T20i_landscape_thumb.jpg" group-title="sonyliv-Cricket", 4th T20I - 30 Oct 2026 [KAN] - India Tour of New Zealand 2026
-https://sonydaime.akamaized.net/hls/live/2119782/cricodi_3010/KAN/master.m3u8?hdnea=exp=1793385604~acl=/*~id=02224661196681109465564636457864~hmac=764909e87d8295a477ff86c4c3f814af21462f662ed21bb8c1b5daaa80ec288a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg" group-title="sonyliv-Football", NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [HIN] - MG Indian Super League 2026-27
+https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793410703~acl=/*~id=26571186098163408218118816181417~hmac=3f2fdd7452a3c9da01d0b5aba983b360e0d458c4bf58605817a038df7cec801a
 
