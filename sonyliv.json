@@ -1,33 +1,42 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:55:25 05-11-2026",
+    "last update time": "23:42:07 05-11-2026",
     "matches": [
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": "1090552565_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028246/179378391827167_ACC_MensU19_Bangladesh_vs_Afghanistan_live_landscape_thumb.jpg",
+            "contentId": "1090551919_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792957344930155_UEL26_MD4_AC_Milan_vs_Ferencvarosi_TC_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "ACC Men's U19 Asia Cup 2026",
-            "match_name": "Bangladesh vs Afghanistan - 5 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793917524~acl=/*~id=85152534854195697059388400134363~hmac=c839dcdf030ef297c9306f4d33e1a67a5998099dae4c4e481f2337da18890269",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793917524~acl=/*~id=85152534854195697059388400134363~hmac=c839dcdf030ef297c9306f4d33e1a67a5998099dae4c4e481f2337da18890269",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793917524~acl=/*~id=85152534854195697059388400134363~hmac=c839dcdf030ef297c9306f4d33e1a67a5998099dae4c4e481f2337da18890269"
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "AC Milan vs Ferencv\u00e1rosi TC - MD 4 - 5 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793945527~acl=/*~id=57514553997308828791665868531651~hmac=0978292a3f5484630ce5df4070a8db7cb56ca4d31597d1949aca62ac4f236c8f",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793945527~acl=/*~id=57514553997308828791665868531651~hmac=0978292a3f5484630ce5df4070a8db7cb56ca4d31597d1949aca62ac4f236c8f",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793945527~acl=/*~id=57514553997308828791665868531651~hmac=0978292a3f5484630ce5df4070a8db7cb56ca4d31597d1949aca62ac4f236c8f"
         },
         {
-            "event_category": "Golf",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": "1090552580_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888667543682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day1_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
+            "contentId": "1090551924_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792958584600155_UEL26_MD4_Crystal_Palace_vs_Hoffenheim_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "Abu Dhabi HSBC Championship - Day 1 - 5 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793917524~acl=/*~id=85152534854195697059388400134363~hmac=c839dcdf030ef297c9306f4d33e1a67a5998099dae4c4e481f2337da18890269",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793917524~acl=/*~id=85152534854195697059388400134363~hmac=c839dcdf030ef297c9306f4d33e1a67a5998099dae4c4e481f2337da18890269",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793917524~acl=/*~id=85152534854195697059388400134363~hmac=c839dcdf030ef297c9306f4d33e1a67a5998099dae4c4e481f2337da18890269"
+            "event_name": "UEFA Europa League 2026-27",
+            "match_name": "Crystal Palace vs TSG 1899 Hoffenheim - 5 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793945527~acl=/*~id=57514553997308828791665868531651~hmac=0978292a3f5484630ce5df4070a8db7cb56ca4d31597d1949aca62ac4f236c8f",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793945527~acl=/*~id=57514553997308828791665868531651~hmac=0978292a3f5484630ce5df4070a8db7cb56ca4d31597d1949aca62ac4f236c8f",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793945527~acl=/*~id=57514553997308828791665868531651~hmac=0978292a3f5484630ce5df4070a8db7cb56ca4d31597d1949aca62ac4f236c8f"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": false,
+            "contentId": 1090552324,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793773960156876_Asia_Cup_U19_IND-vs-NEP_Promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs Nepal - ACC Men's U19 Asia Cup 2026"
         },
         {
             "event_category": "Cricket",
@@ -41,29 +50,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793126841250973_ISL_Mohun_Bagan_SG_vs_Odisha_FC_promo_landscape_thumb_tonight.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - MG Indian Super League 2026-27"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090552149,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028297/1793796343913833_UEL25_26_AC-Milan-vs-Ferencvarosi-TC_promo_Tonight_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028297/1793796845484833_UEL25_26_Bayer-04-Leverkusen-vs-Olympique-de-Marseille_Tonight_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 4 - UEFA Europa League 2026-27"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": false,
-            "contentId": 1090552324,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793773960156876_Asia_Cup_U19_IND-vs-NEP_Promo_DDT_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
+            "contentId": 1090547508,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028378/1793866199704860_ISL26_FC-GOA-vs-Bengaluru-FC_promo_DDT_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs Nepal - ACC Men's U19 Asia Cup 2026"
+            "event_name": "Upcoming - MG Indian Super League 2026-27"
         },
         {
             "event_category": "Cricket",
