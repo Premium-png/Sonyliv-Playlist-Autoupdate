@@ -1,39 +1,13 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:42:07 05-11-2026",
+    "last update time": "05:05:06 06-11-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090551919_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792957344930155_UEL26_MD4_AC_Milan_vs_Ferencvarosi_TC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2026-27",
-            "match_name": "AC Milan vs Ferencv\u00e1rosi TC - MD 4 - 5 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793945527~acl=/*~id=57514553997308828791665868531651~hmac=0978292a3f5484630ce5df4070a8db7cb56ca4d31597d1949aca62ac4f236c8f",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793945527~acl=/*~id=57514553997308828791665868531651~hmac=0978292a3f5484630ce5df4070a8db7cb56ca4d31597d1949aca62ac4f236c8f",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793945527~acl=/*~id=57514553997308828791665868531651~hmac=0978292a3f5484630ce5df4070a8db7cb56ca4d31597d1949aca62ac4f236c8f"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090551924_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792958584600155_UEL26_MD4_Crystal_Palace_vs_Hoffenheim_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Europa League 2026-27",
-            "match_name": "Crystal Palace vs TSG 1899 Hoffenheim - 5 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793945527~acl=/*~id=57514553997308828791665868531651~hmac=0978292a3f5484630ce5df4070a8db7cb56ca4d31597d1949aca62ac4f236c8f",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793945527~acl=/*~id=57514553997308828791665868531651~hmac=0978292a3f5484630ce5df4070a8db7cb56ca4d31597d1949aca62ac4f236c8f",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793945527~acl=/*~id=57514553997308828791665868531651~hmac=0978292a3f5484630ce5df4070a8db7cb56ca4d31597d1949aca62ac4f236c8f"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090552324,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793773960156876_Asia_Cup_U19_IND-vs-NEP_Promo_DDT_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028228/1793773973505876_Asia_Cup_U19_IND-vs-NEP_Promo_Today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Nepal - ACC Men's U19 Asia Cup 2026"
@@ -46,15 +20,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - 2nd ODI - India Tour Of New Zealand 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090552149,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028297/1793796845484833_UEL25_26_Bayer-04-Leverkusen-vs-Olympique-de-Marseille_Tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 4 - UEFA Europa League 2026-27"
         },
         {
             "event_category": "Football",
