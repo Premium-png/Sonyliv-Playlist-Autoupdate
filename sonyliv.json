@@ -1,33 +1,16 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:13:58 09-11-2026",
+    "last update time": "23:19:29 09-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090553302_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028502/1793999538076640_ACC_MensU19_Sri_Lanka_vs_Afghanistan_live_landscape_thumb.jpg",
+            "isLive": false,
+            "contentId": 1090553040,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028630/1794120937484618_ACC_MensU19_India_vs_UAE_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ACC Men's U19 Asia Cup 2026",
-            "match_name": "Sri Lanka vs Afghanistan - 9 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794253437~acl=/*~id=51737397165013880214137570026822~hmac=62147f26ad2c0a23a381a89e7b9f5d4f756a78739da427911223890c219e6c19",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794253437~acl=/*~id=51737397165013880214137570026822~hmac=62147f26ad2c0a23a381a89e7b9f5d4f756a78739da427911223890c219e6c19",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794253437~acl=/*~id=51737397165013880214137570026822~hmac=62147f26ad2c0a23a381a89e7b9f5d4f756a78739da427911223890c219e6c19"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090553301_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028501/1793998959168722_ACC_MensU19_Bangladesh_vs_Malaysia_live_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "ACC Men's U19 Asia Cup 2026",
-            "match_name": "Bangladesh vs Malaysia - 9 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794253437~acl=/*~id=51737397165013880214137570026822~hmac=62147f26ad2c0a23a381a89e7b9f5d4f756a78739da427911223890c219e6c19",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794253437~acl=/*~id=51737397165013880214137570026822~hmac=62147f26ad2c0a23a381a89e7b9f5d4f756a78739da427911223890c219e6c19",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794253437~acl=/*~id=51737397165013880214137570026822~hmac=62147f26ad2c0a23a381a89e7b9f5d4f756a78739da427911223890c219e6c19"
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - India vs UAE - ACC Men's U19 Asia Cup 2026"
         },
         {
             "event_category": "Cricket",
@@ -41,11 +24,11 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090553040,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028630/1794120937484618_ACC_MensU19_India_vs_UAE_dated_landscape_thumb.jpg",
+            "contentId": 1090552650,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028671/1794223107190234_Asia_Cup_Rising_Star_Promo_DTT_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India vs UAE - ACC Men's U19 Asia Cup 2026"
+            "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026"
         },
         {
             "event_category": "Cricket",
@@ -55,15 +38,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India vs Pakistan - DP World Asia Cup Rising Stars Men's 2026"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090552650,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028318/1793812415099811_ACC_U19_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026"
         },
         {
             "event_category": "Cricket",
