@@ -2,7 +2,7 @@
   "Author": "DOCTOR STRANGE",
   "Telegram": "https://t.me/jitendraunatti_github",
   "name": "Sony Live Matches API",
-  "last_updated": "13-11-2026 06:00",
+  "last_updated": "13-11-2026 10:40",
   "app_settings": {
     "PROXY": "ON",
     "state_code": "MH",
@@ -81,7 +81,7 @@
         "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794293763987627_NZvsIND_4th_ODI_live_portrait_thumb.jpg",
         "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028882/1794504518483548_NZ_vs_IND_4th_ODI_masthead_mobile_v2.jpg",
+        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028815/1794468344871287_IND_vs_NZ_2026_Match_masthead_mobile_v2_984x1182_1.jpg",
         "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028506/1794004584754999_IND_vs_NZ_2026_match_Masthead_logo_4thodi_LIVE.png",
         "circular_image": null,
         "image_600x900_clean": null,
@@ -153,7 +153,7 @@
             "Device_Type": "SONY_PRO_MAX",
             "message": "success",
             "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://liveakmt-m-lr.slivcdn.com/out/v1/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8",
+            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchbb79/cricodi_1211-hin-1-ts-hls/std-lrh-800300010.m3u8",
             "WIDEVINE": null,
             "STREAMING_TYPE": true,
             "audioLanguages": [
@@ -182,7 +182,7 @@
             "Maximum_Video_Quality": "SDR",
             "Maximum_Resolution": "FULL_HD",
             "trailer_url": "",
-            "systemTime": 1794529820818,
+            "systemTime": 1794530631164,
             "additionalDataJson": {
               "adServer": "GAM",
               "ad_stack": "MT-SSB",
@@ -200,8 +200,8 @@
             },
             "Status_code": 200,
             "content_type": "application/json; charset=utf-8",
-            "auto_streams": "",
-            "Date": "Friday 13th of November 2026 06:00:22 AM"
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchbb79/cricodi_1211-hin-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1794573831~acl=/*~hmac=852af5dd1236be36a94074abafd1e1ea363b5ee17918e52018dbef59f2aba634\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchbb79/cricodi_1211-hin-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1794573831~acl=/*~hmac=852af5dd1236be36a94074abafd1e1ea363b5ee17918e52018dbef59f2aba634\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchbb79/cricodi_1211-hin-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1794573831~acl=/*~hmac=852af5dd1236be36a94074abafd1e1ea363b5ee17918e52018dbef59f2aba634\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchbb79/cricodi_1211-hin-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1794573831~acl=/*~hmac=852af5dd1236be36a94074abafd1e1ea363b5ee17918e52018dbef59f2aba634\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpchbb79/cricodi_1211-hin-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1794573831~acl=/*~hmac=852af5dd1236be36a94074abafd1e1ea363b5ee17918e52018dbef59f2aba634",
+            "Date": "Friday 13th of November 2026 06:13:51 AM"
           }
         },
         {
@@ -269,7 +269,7 @@
             "Device_Type": "SONY_PRO_MAX",
             "message": "success",
             "X-Served-By": "JARVIS",
-            "Playback_videoURL": "https://liveakmt-mgm.slivcdn.com/out/v1/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8",
+            "Playback_videoURL": "https://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch5459/cricodi_1211-tel-1-ts-hls/std-lrh-800300010.m3u8",
             "WIDEVINE": null,
             "STREAMING_TYPE": true,
             "audioLanguages": [
@@ -298,7 +298,7 @@
             "Maximum_Video_Quality": "SDR",
             "Maximum_Resolution": "FULL_HD",
             "trailer_url": "",
-            "systemTime": 1794529824163,
+            "systemTime": 1794530592607,
             "additionalDataJson": {
               "adServer": "GAM",
               "ad_stack": "MT-SSB",
@@ -316,8 +316,8 @@
             },
             "Status_code": 200,
             "content_type": "application/json; charset=utf-8",
-            "auto_streams": "",
-            "Date": "Friday 13th of November 2026 06:00:24 AM"
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-INDEPENDENT-SEGMENTS\n#EXT-X-STREAM-INF:CODECS=\"avc1.4D401E,mp4a.40.2\",AVERAGE-BANDWIDTH=795392,RESOLUTION=640x360,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=795392\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch5459/cricodi_1211-tel-1-ts-hls/pristine-std-lrh-800300010_1.m3u8?hdntl=exp=1794573792~acl=/*~hmac=b46a6d86e90bfc0009bd4b3e9cecb37b9ce75057aa063d60458f97221f4e5cbe\n#EXT-X-STREAM-INF:CODECS=\"avc1.64001F,mp4a.40.2\",AVERAGE-BANDWIDTH=1265376,RESOLUTION=960x540,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=1265376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch5459/cricodi_1211-tel-1-ts-hls/pristine-std-lrh-800300010_2.m3u8?hdntl=exp=1794573792~acl=/*~hmac=b46a6d86e90bfc0009bd4b3e9cecb37b9ce75057aa063d60458f97221f4e5cbe\n#EXT-X-STREAM-INF:CODECS=\"avc1.640020,mp4a.40.2\",AVERAGE-BANDWIDTH=2205376,RESOLUTION=1280x720,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=2205376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch5459/cricodi_1211-tel-1-ts-hls/pristine-std-lrh-800300010_3.m3u8?hdntl=exp=1794573792~acl=/*~hmac=b46a6d86e90bfc0009bd4b3e9cecb37b9ce75057aa063d60458f97221f4e5cbe\n#EXT-X-STREAM-INF:CODECS=\"avc1.640028,mp4a.40.2\",AVERAGE-BANDWIDTH=3333376,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=25.0,BANDWIDTH=3333376\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch5459/cricodi_1211-tel-1-ts-hls/pristine-std-lrh-800300010_4.m3u8?hdntl=exp=1794573792~acl=/*~hmac=b46a6d86e90bfc0009bd4b3e9cecb37b9ce75057aa063d60458f97221f4e5cbe\n#EXT-X-STREAM-INF:CODECS=\"avc1.64002A,mp4a.40.2\",AVERAGE-BANDWIDTH=4598488,RESOLUTION=1920x1080,VIDEO-RANGE=SDR,FRAME-RATE=50.0,BANDWIDTH=4598488\nhttps://livecfdai-mp.slivcdn.com/out/v1/mpchgp431f/mpch5459/cricodi_1211-tel-1-ts-hls/pristine-std-lrh-800300010_5.m3u8?hdntl=exp=1794573792~acl=/*~hmac=b46a6d86e90bfc0009bd4b3e9cecb37b9ce75057aa063d60458f97221f4e5cbe",
+            "Date": "Friday 13th of November 2026 06:13:13 AM"
           }
         },
         {
@@ -379,15 +379,113 @@
           }
         }
       ]
+    },
+    {
+      "contentId": 1090553601,
+      "video_info": {
+        "title": "Asian Tour 2026",
+        "shortDescription": "Catch all the action from the Day 2 of Philippine Open , LIVE on Sony LIV.",
+        "longDescription": "Catch all the action from the Day 2 of Philippine Open , LIVE on Sony LIV.",
+        "genres": [
+          "Golf"
+        ],
+        "episodeTitle": "Philippine Open - Day 2 - 13 Nov 2026"
+      },
+      "stream_info": {
+        "Maximum_Video_Quality": "SDR",
+        "dai_asset_key": "https://dai.google.com/ssai/event/0rU3P9wWRxO9JMOXItU3zA/master.m3u8",
+        "broadcast_channel": "LIV",
+        "audio_language_list": [
+          {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          }
+        ],
+        "emfAttributes__audio_languages": "ENG",
+        "platformVariants": {
+          "assetType": "MASTER",
+          "assetName": "VOD_FULL_HD",
+          "videoType": "FULL_HD",
+          "audioLanguages": [
+            {
+              "audioId": 1,
+              "audioLanguageName": "ENG",
+              "isPreferred": true,
+              "audioLanguageLabel": "English"
+            }
+          ],
+          "subtitlesLanguages": [],
+          "videoUrl": "NA"
+        }
+      },
+      "air_dates": {
+        "contractStartDate": "13 Nov 2026, 09:30 AM",
+        "contractEndDate": "13 Nov 2026, 06:30 PM",
+        "originalAirDate": "13 Nov 2026, 10:00 AM"
+      },
+      "image_cdn": {
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887849996295_ASIANTOUR2026_Philippine_Open_Day2_portrait_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887693162295_ASIANTOUR2026_Philippine_Open_Day2_landscape_thumb.jpg",
+        "masthead_mobile_v1": null,
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
+        "circular_image": null,
+        "image_600x900_clean": null,
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887693162295_ASIANTOUR2026_Philippine_Open_Day2_landscape_thumb.jpg"
+      },
+      "multiple_audio_links": [
+        {
+          "language": "English",
+          "lang_code": "ENG",
+          "data": {
+            "Device_Type": "SONY_PRO_MAX",
+            "message": "success",
+            "X-Served-By": "JARVIS",
+            "Playback_videoURL": "https://sonymtmnew.akamaized.net/hls/live/2094588/Golf_Phi1311/ENG/std_lrh-800300010.m3u8",
+            "WIDEVINE": null,
+            "STREAMING_TYPE": true,
+            "audioLanguages": [
+              {
+                "audioLanguageName": "ENG",
+                "audioLanguageLabel": "English"
+              }
+            ],
+            "dai_asset_key": "unavailable",
+            "Maximum_Video_Quality": "SDR",
+            "Maximum_Resolution": "FULL_HD",
+            "trailer_url": "",
+            "systemTime": 1794543021869,
+            "additionalDataJson": {
+              "adServer": "GAM",
+              "ad_stack": "MT-SSB",
+              "audioCodec": "AAC",
+              "audio_quality": "STEREO",
+              "enc_format": "HLS",
+              "fps": 50,
+              "isDaiKey": false,
+              "partners": [
+                "ALL"
+              ],
+              "resolution": "FULL_HD",
+              "videoCodec": "H264",
+              "video_quality": "SDR"
+            },
+            "Status_code": 200,
+            "content_type": "application/json; charset=utf-8",
+            "auto_streams": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=833160,AVERAGE-BANDWIDTH=833160,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/Golf_Phi1311/ENG/hdntl=exp=1794629422~acl=%2f*~id=aae4c9edc7dc2207b1af674d5a01ddf3-1794522602249~data=hdntl,2094588,Golf_Phi1311,ENG,none~hmac=cbfed2fea1c2acaf2404e628ccad7041994b6673c70b335dc8f7d2d316eebcac/master_500.m3u8?aka_me_session_id=AAAAAAAAAAAu3%2fdqAAAAAKcrlsBDxzDtjLYBO%2fPiwzXOTflAXb0loJYMb%2fx1VlPMF%2fgzbMaV0WNyzROgYJI1wUyAlggd4KBr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=1344040,AVERAGE-BANDWIDTH=1344040,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/Golf_Phi1311/ENG/hdntl=exp=1794629422~acl=%2f*~id=aae4c9edc7dc2207b1af674d5a01ddf3-1794522602249~data=hdntl,2094588,Golf_Phi1311,ENG,none~hmac=cbfed2fea1c2acaf2404e628ccad7041994b6673c70b335dc8f7d2d316eebcac/master_1000.m3u8?aka_me_session_id=AAAAAAAAAAAu3%2fdqAAAAAKcrlsBDxzDtjLYBO%2fPiwzXOTflAXb0loJYMb%2fx1VlPMF%2fgzbMaV0WNyzROgYJI1wUyAlggd4KBr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=2365768,AVERAGE-BANDWIDTH=2365768,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/Golf_Phi1311/ENG/hdntl=exp=1794629422~acl=%2f*~id=aae4c9edc7dc2207b1af674d5a01ddf3-1794522602249~data=hdntl,2094588,Golf_Phi1311,ENG,none~hmac=cbfed2fea1c2acaf2404e628ccad7041994b6673c70b335dc8f7d2d316eebcac/master_2000.m3u8?aka_me_session_id=AAAAAAAAAAAu3%2fdqAAAAAKcrlsBDxzDtjLYBO%2fPiwzXOTflAXb0loJYMb%2fx1VlPMF%2fgzbMaV0WNyzROgYJI1wUyAlggd4KBr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4204904,AVERAGE-BANDWIDTH=4204904,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/Golf_Phi1311/ENG/hdntl=exp=1794629422~acl=%2f*~id=aae4c9edc7dc2207b1af674d5a01ddf3-1794522602249~data=hdntl,2094588,Golf_Phi1311,ENG,none~hmac=cbfed2fea1c2acaf2404e628ccad7041994b6673c70b335dc8f7d2d316eebcac/master_3800.m3u8?aka_me_session_id=AAAAAAAAAAAu3%2fdqAAAAAKcrlsBDxzDtjLYBO%2fPiwzXOTflAXb0loJYMb%2fx1VlPMF%2fgzbMaV0WNyzROgYJI1wUyAlggd4KBr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=4963232,AVERAGE-BANDWIDTH=4963232,CODECS=\"avc1.64002a,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=50.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/Golf_Phi1311/ENG/hdntl=exp=1794629422~acl=%2f*~id=aae4c9edc7dc2207b1af674d5a01ddf3-1794522602249~data=hdntl,2094588,Golf_Phi1311,ENG,none~hmac=cbfed2fea1c2acaf2404e628ccad7041994b6673c70b335dc8f7d2d316eebcac/master_4500.m3u8?aka_me_session_id=AAAAAAAAAAAu3%2fdqAAAAAKcrlsBDxzDtjLYBO%2fPiwzXOTflAXb0loJYMb%2fx1VlPMF%2fgzbMaV0WNyzROgYJI1wUyAlggd4KBr&aka_media_format_type=hls\n#EXT-X-STREAM-INF:BANDWIDTH=3387496,AVERAGE-BANDWIDTH=3387496,CODECS=\"avc1.640020,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://sonymtmnew.akamaized.net/hls/live/2094588/Golf_Phi1311/ENG/hdntl=exp=1794629422~acl=%2f*~id=aae4c9edc7dc2207b1af674d5a01ddf3-1794522602249~data=hdntl,2094588,Golf_Phi1311,ENG,none~hmac=cbfed2fea1c2acaf2404e628ccad7041994b6673c70b335dc8f7d2d316eebcac/master_3000.m3u8?aka_me_session_id=AAAAAAAAAAAu3%2fdqAAAAAKcrlsBDxzDtjLYBO%2fPiwzXOTflAXb0loJYMb%2fx1VlPMF%2fgzbMaV0WNyzROgYJI1wUyAlggd4KBr&aka_media_format_type=hls",
+            "Date": "Friday 13th of November 2026 09:40:23 AM"
+          }
+        }
+      ]
     }
   ],
   "upcoming": [
     {
-      "contentId": 1090553427,
+      "contentId": 1090554060,
       "video_info": {
-        "title": "Upcoming - 4th ODI - India Tour Of New Zealand 2026",
-        "shortDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
-        "longDescription": "Tune in to catch all the action from India Tour of New Zealand 2026, only on Sony LIV.",
+        "title": "Upcoming - Pakistan vs India - Final - ACC Men's U19 Asia Cup 2026",
+        "shortDescription": "Watch all the action from the ACC Men's U19 Asia Cup 2026, exclusively on Sony LIV.",
+        "longDescription": "Watch all the action from the ACC Men's U19 Asia Cup 2026, exclusively on Sony LIV.",
         "genres": [
           "Cricket"
         ],
@@ -399,11 +497,15 @@
         "broadcast_channel": "Sony Sports Ten 5",
         "audio_language_list": [
           {
+            "lang_code": "ENG",
+            "lang_label": "English"
+          },
+          {
             "lang_code": "HIN",
             "lang_label": "Hindi"
           }
         ],
-        "emfAttributes__audio_languages": "HIN",
+        "emfAttributes__audio_languages": "ENG,HIN",
         "platformVariants": {
           "assetType": "MASTER",
           "assetName": "VOD_FULL_HD1",
@@ -419,24 +521,24 @@
           ],
           "subtitlesLanguages": [],
           "videoUrl": "NA",
-          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/c9f4ee4f23964f058fab514b4c3e281c/1794489464/baseline-std-v4/IND_VS_NZ_4th_ODI_CONTEXTUAL_25_SEC_HOR_WOBUG_DATED_APP_hin_baseline-800300010.mpd",
+          "trailerUrl": "https://streaming.sonyliv.com/trailer/DASH/f4aa56d5301047899cdc22ee0d83a0e2/1794543931/baseline-std-v4/1090554060_13112026_hin_baseline-800300010.mpd",
           "hasTrailer": true
         }
       },
       "air_dates": {
-        "contractStartDate": "10 Nov 2026, 09:55 AM",
-        "contractEndDate": "13 Nov 2026, 06:05 AM",
+        "contractStartDate": "13 Nov 2026, 09:30 AM",
+        "contractEndDate": "14 Nov 2026, 10:00 AM",
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028665/1794207945787604_NZ_vs_IND_4thODI_Promo_Today_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028665/1794208056744604_NZ_vs_IND_4thODI_Promo_Today_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028903/179454447591486_AC26_final_U19_mens_PAK_vs_IND_dated_landscape_thumb.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028903/179454447591486_AC26_final_U19_mens_PAK_vs_IND_dated_landscape_thumb.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028882/1794504518483548_NZ_vs_IND_4th_ODI_masthead_mobile_v2.jpg",
-        "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028758/1794314239793322_IND_vs_NZ_2026_match_Masthead_logo_4thodi_DATED.png",
+        "masthead_mobile_v2": null,
+        "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028665/1794208056744604_NZ_vs_IND_4thODI_Promo_Today_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028903/179454447591486_AC26_final_U19_mens_PAK_vs_IND_dated_landscape_thumb.jpg"
       },
       "multiple_audio_links": []
     },
@@ -487,14 +589,14 @@
         "originalAirDate": null
       },
       "image_cdn": {
-        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794306857143246_UNL26_england_vs_croatia_tonight_portrait_thumb.jpg",
-        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794309212414246_UNL26_england_vs_croatia_tonight_landscape_thumb.jpg",
+        "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028802/1794403574708904_UNL_MD5_landscape.jpg",
+        "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028802/1794403574708904_UNL_MD5_landscape.jpg",
         "masthead_mobile_v1": null,
-        "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028785/1794385057424439_UNL2627_combo_Version2_14thNov_1-15-AM_masthead_mobile_v2.jpg",
+        "masthead_mobile_v2": null,
         "masthead_logo": null,
         "circular_image": null,
         "image_600x900_clean": null,
-        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794309212414246_UNL26_england_vs_croatia_tonight_landscape_thumb.jpg"
+        "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028802/1794403574708904_UNL_MD5_landscape.jpg"
       },
       "multiple_audio_links": []
     },
