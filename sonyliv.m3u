@@ -1,19 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="sonyliv-Cricket", 5th ODI - 15 Nov 2026 [ENG] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027773/1793249866500892_UNL26_MD6_Finland_vs_San_Marino_landscape_thumb.jpg" group-title="sonyliv-Football", Finland vs San Marino - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794807345~acl=/*~id=18649958922940792500712468148305~hmac=508df55943e66a17767c106b54c77f116d073ed25659e8a4133658de52530968
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="sonyliv-Cricket", 5th ODI - 15 Nov 2026 [HIN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="sonyliv-Cricket", 5th ODI - 15 Nov 2026 [TAM] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="sonyliv-Cricket", 5th ODI - 15 Nov 2026 [TEL] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg" group-title="sonyliv-Cricket", 5th ODI - 15 Nov 2026 [KAN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398880189427_DP_World_Tour_Championship_Dubai_day4_landscape_thumb.jpg" group-title="sonyliv-Golf", DP World Tour Championship, Dubai - Day 4 - 15 Nov 2026 [ENG] - DP World Tour
-https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794783111~acl=/*~id=54340411180450923104951347672873~hmac=744f4b833b899e1727011f26f20a4d7a93b3adc6fe1a4649038b50ea9285f66f
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027747/1793250451231217_UNL26_MD6_Belarus_vs_Albania_landscape_thumb.jpg" group-title="sonyliv-Football", Belarus vs Albania - 15 Nov 2026 [ENG] - UEFA Nations League 2026-27
+https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794807345~acl=/*~id=18649958922940792500712468148305~hmac=508df55943e66a17767c106b54c77f116d073ed25659e8a4133658de52530968
 
