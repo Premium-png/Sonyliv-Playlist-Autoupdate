@@ -1,39 +1,13 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:05:45 15-11-2026",
+    "last update time": "03:28:14 16-11-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090554017_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027773/1793249866500892_UNL26_MD6_Finland_vs_San_Marino_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Nations League 2026-27",
-            "match_name": "Finland vs San Marino - 15 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794807345~acl=/*~id=18649958922940792500712468148305~hmac=508df55943e66a17767c106b54c77f116d073ed25659e8a4133658de52530968",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794807345~acl=/*~id=18649958922940792500712468148305~hmac=508df55943e66a17767c106b54c77f116d073ed25659e8a4133658de52530968",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794807345~acl=/*~id=18649958922940792500712468148305~hmac=508df55943e66a17767c106b54c77f116d073ed25659e8a4133658de52530968"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090554018_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027747/1793250451231217_UNL26_MD6_Belarus_vs_Albania_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Nations League 2026-27",
-            "match_name": "Belarus vs Albania - 15 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794807345~acl=/*~id=18649958922940792500712468148305~hmac=508df55943e66a17767c106b54c77f116d073ed25659e8a4133658de52530968",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794807345~acl=/*~id=18649958922940792500712468148305~hmac=508df55943e66a17767c106b54c77f116d073ed25659e8a4133658de52530968",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794807345~acl=/*~id=18649958922940792500712468148305~hmac=508df55943e66a17767c106b54c77f116d073ed25659e8a4133658de52530968"
-        },
         {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090554424,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029069/1794681754806257_UNL_France_vs_Turkiye_Promo_landscape_thumb_tonight.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029154/179474270590682_UNL26_germany_vs_netherlands_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 6 - UEFA Nations League 2026-27"
@@ -46,24 +20,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090554423,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794310732622247_UNL26_Spain_vs_england_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Spain vs England - UEFA Nations League 2026-27"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090554422,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029070/1794684070886792_UNL_Belgium_vs_Italy_Promo_landscape_thumb_tonight.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Belgium vs Italy - UEFA Nations League 2026-27"
         },
         {
             "event_category": "Cricket",
