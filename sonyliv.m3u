@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg" group-title="sonyliv-Cricket", 1st Test - Day 1 - 19 Nov 2026 [ENG] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795092742~acl=/*~id=39209185240274022148908362946932~hmac=a055c173b0f4c652195ba7ecbe0ab33d92f393e4e0a0aa07ac194348c79c1893
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg" group-title="sonyliv-Cricket", 1st Test - Day 1 - 19 Nov 2026 [HIN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795092742~acl=/*~id=39209185240274022148908362946932~hmac=a055c173b0f4c652195ba7ecbe0ab33d92f393e4e0a0aa07ac194348c79c1893
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg" group-title="sonyliv-Cricket", 1st Test - Day 1 - 19 Nov 2026 [TAM] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795092742~acl=/*~id=39209185240274022148908362946932~hmac=a055c173b0f4c652195ba7ecbe0ab33d92f393e4e0a0aa07ac194348c79c1893
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg" group-title="sonyliv-Cricket", 1st Test - Day 1 - 19 Nov 2026 [TEL] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795092742~acl=/*~id=39209185240274022148908362946932~hmac=a055c173b0f4c652195ba7ecbe0ab33d92f393e4e0a0aa07ac194348c79c1893
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029286/1794981614833787_NZvsIND_1st_test_day1_landscape_thumb.jpg" group-title="sonyliv-Cricket", 1st Test - Day 1 - 19 Nov 2026 [KAN] - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795092742~acl=/*~id=39209185240274022148908362946932~hmac=a055c173b0f4c652195ba7ecbe0ab33d92f393e4e0a0aa07ac194348c79c1893
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029365/1795067857037235_ACRS26_BANvsHKC_landscape_thumb.jpg" group-title="sonyliv-Cricket", Bangladesh A vs Hong Kong, China - 19 Nov 2026 [ENG] - ACC Men's Asia Cup Rising Stars 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795120080~acl=/*~id=26795371954519782013508996191421~hmac=1d720a86628991228c56de86fa6bc5fb8f1e935857355a4c1e56a5f7921d7335
 
