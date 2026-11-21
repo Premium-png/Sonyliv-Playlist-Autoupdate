@@ -1,20 +1,72 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:55:16 21-11-2026",
+    "last update time": "23:09:59 21-11-2026",
     "matches": [
         {
-            "event_category": "Cricket",
+            "event_category": "Fight Sports",
             "isLive": true,
-            "contentId": "1090555331_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg",
+            "contentId": "1090555610_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-            "match_name": "Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795299916~acl=/*~id=67884190057047905748012677359938~hmac=9b46466ba0ebf71aa9e15d6acaf256d05218e8f502cbaa1e87ed64b165dee383",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795299916~acl=/*~id=67884190057047905748012677359938~hmac=9b46466ba0ebf71aa9e15d6acaf256d05218e8f502cbaa1e87ed64b165dee383",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795299916~acl=/*~id=67884190057047905748012677359938~hmac=9b46466ba0ebf71aa9e15d6acaf256d05218e8f502cbaa1e87ed64b165dee383"
+            "event_name": "UFC Fight Night - Prochazka vs Stirling",
+            "match_name": "UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [ENG]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090555610_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "UFC Fight Night - Prochazka vs Stirling",
+            "match_name": "UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [HIN]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090555610_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TAM",
+            "event_name": "UFC Fight Night - Prochazka vs Stirling",
+            "match_name": "UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [TAM]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090555610_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "TEL",
+            "event_name": "UFC Fight Night - Prochazka vs Stirling",
+            "match_name": "UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [TEL]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": true,
+            "contentId": "1090555610_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "KAN",
+            "event_name": "UFC Fight Night - Prochazka vs Stirling",
+            "match_name": "UFC Fight Night - Prochazka vs Stirling - 21 Nov 2026 [KAN]",
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6"
         },
         {
             "event_category": "Cricket",
@@ -25,9 +77,9 @@
             "audioLanguageName": "ENG",
             "event_name": "ACC Men's Asia Cup Rising Stars 2026",
             "match_name": "Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG]",
-            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795299916~acl=/*~id=67884190057047905748012677359938~hmac=9b46466ba0ebf71aa9e15d6acaf256d05218e8f502cbaa1e87ed64b165dee383",
-            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795299916~acl=/*~id=67884190057047905748012677359938~hmac=9b46466ba0ebf71aa9e15d6acaf256d05218e8f502cbaa1e87ed64b165dee383",
-            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795299916~acl=/*~id=67884190057047905748012677359938~hmac=9b46466ba0ebf71aa9e15d6acaf256d05218e8f502cbaa1e87ed64b165dee383"
+            "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
+            "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
+            "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6"
         },
         {
             "event_category": "Cricket",
@@ -50,11 +102,38 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090555667,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029579/1795250909596716_FCB_ManUtd_PSG_LFC_landscape_thumbnail.jpg",
+            "contentId": 1090555086,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795119521514174_UCL26_MD5_Arsenal_vs_Dortmund_Promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UEFA Champions League 2026-27"
+            "event_name": "Upcoming - Arsenal vs Dortmund - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090555090,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124816432174_UCL26_MD5_PSG_vs_AS_Roma_Promo_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - PSG vs Roma - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090555089,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795123999144174_UCL26_MD5_ManCity_vs_Napoli_Promo_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Man City vs Napoli - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090555088,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795122921709174_UCL26_MD5_Lille_vs_Bayern_Munich_Promo_landscape_thumb_dated.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Lille vs Bayern Munich - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Cricket",
@@ -86,11 +165,11 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090547508,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026531/1792220168107930_Indian_Super_League_Football_Landscape_Thumb_Dated.jpg",
+            "contentId": 1090555667,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029579/1795250909596716_FCB_ManUtd_PSG_LFC_landscape_thumbnail.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - MG Indian Super League 2026-27"
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA Champions League 2026-27"
         },
         {
             "event_category": "Football",
@@ -113,15 +192,6 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090555086,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795119521514174_UCL26_MD5_Arsenal_vs_Dortmund_Promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Arsenal vs Dortmund - UEFA Champions League 2026-27"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090555087,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121889201174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -131,38 +201,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090555088,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795122921709174_UCL26_MD5_Lille_vs_Bayern_Munich_Promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Lille vs Bayern Munich - UEFA Champions League 2026-27"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090555089,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795123999144174_UCL26_MD5_ManCity_vs_Napoli_Promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Man City vs Napoli - UEFA Champions League 2026-27"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090555090,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795124816432174_UCL26_MD5_PSG_vs_AS_Roma_Promo_landscape_thumb_dated.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - PSG vs Roma - UEFA Champions League 2026-27"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090555091,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125561396174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_dated.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Sporting vs Manchester United - UEFA Champions League 2026-27"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090555134,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029405/1795096404105290_uefa_league_matchday_5_landscape_thumbnail.png",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 5 - UEFA Europa League 2026-27"
         }
     ]
 }
